@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NIRVIBADYAL</Machine>
+    <WindowsUser>sheena</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\bin\Debug\game.exe">
+      <PackagePath>game.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\bin\Debug\game.pdb">
+      <PackagePath>game.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\packages\Facebook.6.4.2\lib\win8\Facebook.dll">
+      <PackagePath>Facebook.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\packages\Facebook.6.4.2\lib\win8\Facebook.xml">
+      <PackagePath>Facebook.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\001-RichardClayderman-BalladePourAdeline.mp3">
+      <PackagePath>Assets\001-RichardClayderman-BalladePourAdeline.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\KBC Mp3 Theme Tone %28PlayMaza.Com%29- PlayMaza.Com.mp3">
+      <PackagePath>Assets\KBC Mp3 Theme Tone %28PlayMaza.Com%29- PlayMaza.Com.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\sonic_game_over.mp3">
+      <PackagePath>Assets\sonic_game_over.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\sonic_mD3EAZq0.mp3">
+      <PackagePath>Assets\sonic_mD3EAZq0.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\Wii Homebrew Channel.mp3">
+      <PackagePath>Assets\Wii Homebrew Channel.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\10151636_626208670780177_1937208488_a.jpg">
+      <PackagePath>Assets\10151636_626208670780177_1937208488_a.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\10168471_626208667446844_1459384290_t.jpg">
+      <PackagePath>Assets\10168471_626208667446844_1459384290_t.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\Facebook-Like-Button.jpg">
+      <PackagePath>Assets\Facebook-Like-Button.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\facebook_logo_by_oguzburaksipsak-d4ubonk.png2.jpg">
+      <PackagePath>Assets\facebook_logo_by_oguzburaksipsak-d4ubonk.png2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\aa.png">
+      <PackagePath>Assets\aa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\Actions-go-next-view-icon.png">
+      <PackagePath>Assets\Actions-go-next-view-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\Arrow-Back-4-icon.png">
+      <PackagePath>Assets\Arrow-Back-4-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\arrow.png">
+      <PackagePath>Assets\arrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\arrow1.png">
+      <PackagePath>Assets\arrow1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\arrow_left.png">
+      <PackagePath>Assets\arrow_left.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\aw.png">
+      <PackagePath>Assets\aw.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\az.png">
+      <PackagePath>Assets\az.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\back.png">
+      <PackagePath>Assets\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\blue.png">
+      <PackagePath>Assets\blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\facebook_button.png">
+      <PackagePath>Assets\facebook_button.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\green.png">
+      <PackagePath>Assets\green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\h.png">
+      <PackagePath>Assets\h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\hh.png">
+      <PackagePath>Assets\hh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\home-icon.png">
+      <PackagePath>Assets\home-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\orange.png">
+      <PackagePath>Assets\orange.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\PAGAPANTI.png">
+      <PackagePath>Assets\PAGAPANTI.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\PAPPU.png">
+      <PackagePath>Assets\PAPPU.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\Refresh-2-icon.png">
+      <PackagePath>Assets\Refresh-2-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\sili.png">
+      <PackagePath>Assets\sili.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\star-rating-icon.png">
+      <PackagePath>Assets\star-rating-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\star-silver-icon.png">
+      <PackagePath>Assets\star-silver-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\Assets\view_refresh.png">
+      <PackagePath>Assets\view_refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\az.png">
+      <PackagePath>az.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\didi.png">
+      <PackagePath>didi.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\silly.png">
+      <PackagePath>silly.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\bin\Debug\BlankPage1.xaml">
+      <PackagePath>BlankPage1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\bin\Debug\BlankPage2.xaml">
+      <PackagePath>BlankPage2.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\bin\Debug\BlankPage3.xaml">
+      <PackagePath>BlankPage3.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nirvi\Documents\Visual Studio 2012\Projects\game\game\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
