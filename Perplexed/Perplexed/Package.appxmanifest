@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="23242NirviMahima.Perplexed" Publisher="CN=9CE4857F-FCFB-4629-873F-2452B134D953" Version="1.0.0.6" />
+  <Properties>
+    <DisplayName>Perplexed</DisplayName>
+    <PublisherDisplayName>Nirvi Mahima</PublisherDisplayName>
+    <Logo>silly.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="game.App">
+      <VisualElements DisplayName="PERPLEXED" Logo="didi.png" SmallLogo="Assets\10168471_626208667446844_1459384290_t.jpg" Description="game" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" WideLogo="az.png" />
+        <SplashScreen Image="Assets\PAGAPANTI.png" BackgroundColor="purple" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClientServer" />
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
